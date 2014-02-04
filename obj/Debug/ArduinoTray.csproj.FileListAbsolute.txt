@@ -1,0 +1,8 @@
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\bin\Debug\ArduinoTray.exe.config
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\bin\Debug\ArduinoTray.exe
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\bin\Debug\ArduinoTray.pdb
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.csprojResolveAssemblyReference.cache
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.Properties.Resources.resources
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.csproj.GenerateResource.Cache
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.exe
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.pdb
