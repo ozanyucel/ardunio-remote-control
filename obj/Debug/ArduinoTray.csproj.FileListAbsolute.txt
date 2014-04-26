@@ -6,3 +6,11 @@ c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\
 c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.csproj.GenerateResource.Cache
 c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.exe
 c:\users\ozan\documents\visual studio 2013\Projects\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.pdb
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\bin\Debug\ArduinoTray.exe.config
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.exe
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.pdb
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\bin\Debug\ArduinoTray.exe
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\bin\Debug\ArduinoTray.pdb
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.csprojResolveAssemblyReference.cache
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.Properties.Resources.resources
+C:\Users\Ozan\Desktop\ARDUINO\ArduinoTray\ArduinoTray\obj\Debug\ArduinoTray.csproj.GenerateResource.Cache

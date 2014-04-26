@@ -45,7 +45,7 @@ namespace ArduinoTray
 
 
         private Dictionary<string, Dictionary<string, string>> _processKeyMap;
-        private bool _logsEnabled = false;
+        private bool _logsEnabled = true;
 
         private Timer timer1;
         private SerialPort serialPort1;
@@ -171,6 +171,7 @@ namespace ArduinoTray
                     SetForegroundWindow(theprocess.MainWindowHandle);
                 SendKeys.SendWait(key);
                 sent = true;
+                break;
             }
 
             return sent;
