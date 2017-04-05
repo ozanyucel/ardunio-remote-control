@@ -1,0 +1,9 @@
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\ozan\documents\visual studio 2013\Projects\ArduinoService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ozan\Documents\Visual Studio 2013\Projects\ArduinoService\WindowsFormsApplication1\bin\Debug\ArduinoGUI.exe.config
+C:\Users\Ozan\Documents\Visual Studio 2013\Projects\ArduinoService\WindowsFormsApplication1\bin\Debug\ArduinoGUI.exe
+C:\Users\Ozan\Documents\Visual Studio 2013\Projects\ArduinoService\WindowsFormsApplication1\bin\Debug\ArduinoGUI.pdb
+C:\Users\Ozan\Documents\Visual Studio 2013\Projects\ArduinoService\WindowsFormsApplication1\obj\Debug\ArduinoGUI.Properties.Resources.resources
+C:\Users\Ozan\Documents\Visual Studio 2013\Projects\ArduinoService\WindowsFormsApplication1\obj\Debug\ArduinoGUI.exe
+C:\Users\Ozan\Documents\Visual Studio 2013\Projects\ArduinoService\WindowsFormsApplication1\obj\Debug\ArduinoGUI.pdb
